@@ -203,23 +203,23 @@ if (!\finger\Validator::is_number_between($number, $start = 0, $end = 100)) {
 
 ### 六、相关截图
 
-![](G:\codespace\github\www.phpjieshuo.com\_github_images\backend-category.png)
+![](.\_github_images\backend-category.png)
 
-![backend-login](G:\codespace\github\www.phpjieshuo.com\_github_images\backend-login.png)
+![backend-login](.\_github_images\backend-login.png)
 
-![backend-menu](G:\codespace\github\www.phpjieshuo.com\_github_images\backend-menu.png)
+![backend-menu](.\_github_images\backend-menu.png)
 
-![frontend-home](G:\codespace\github\www.phpjieshuo.com\_github_images\frontend-home.png)
+![frontend-home](.\_github_images\frontend-home.png)
 
-![frontend-list](G:\codespace\github\www.phpjieshuo.com\_github_images\frontend-list.png)
+![frontend-list](.\_github_images\frontend-list.png)
 
-![frontend-login](G:\codespace\github\www.phpjieshuo.com\_github_images\frontend-login.png)
+![frontend-login](.\_github_images\frontend-login.png)
 
-![frontend-question](G:\codespace\github\www.phpjieshuo.com\_github_images\frontend-question.png)
+![frontend-question](.\_github_images\frontend-question.png)
 
-![frontend-question-detail](G:\codespace\github\www.phpjieshuo.com\_github_images\frontend-question-detail.png)
+![frontend-question-detail](._github_images\frontend-question-detail.png)
 
-![frontend-question-go](G:\codespace\github\www.phpjieshuo.com\_github_images\frontend-question-go.png)
+![frontend-question-go](.\_github_images\frontend-question-go.png)
 
 
 

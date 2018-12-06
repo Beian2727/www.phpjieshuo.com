@@ -2,7 +2,7 @@
 
 > 该源码是 PHP 解说官网源码。基于 Yaf 框架开发。有完善的管理后台功能。前台功能包含两大主要功能：文档和答题系统。PHP 版本最低需要 PHP 5.6 版本。采用 Redis 做系统缓存。MySQL 做数据存储。管理后台上传的图片采用阿里云 OSS 存储。
 
-官网地址：www.phpjieshuo.com
+官网地址：www.phpjieshuo.com[已停用改为博客]
 
 
 
